@@ -2,8 +2,11 @@
 permalink: /
 title: ""
 author_profile: true
+sitemap: true
 
+toc: true
 ---
+
 
 # About Me
 
@@ -24,3 +27,14 @@ In my PhD thesis, I am focusing on computational models for auditory sound sourc
 
 ## 2017
 * _A Computational Model for Spatial Navigation Based on Reference Frames in the Hippocampus, Retrosplenial Cortex, and Posterior Parietal Cortex_, Frontiers in Neurorobotics, [Full text](https://www.frontiersin.org/articles/10.3389/fnbot.2017.00004/full)
+
+# Presentations
+
+* _Computational investigation of visually guided learning of spatially aligned auditory maps in the colliculus_, [Talk](/assets/presentation_isaar.pdf) at the [International Symposium on Auditory and Audiological Research](http://www.isaar.eu/), Košice, Slovakia 2019
+* _Monoaural and Binaural Sound Source Localization in the Median Plane_, [Poster](/assets/poster_kosice.pdf) presentation at the 4th workshop on [cognitive neuroscience of auditory and cross-modal perception](https://pcl.upjs.sk/workshop2019/), Košice, Slovakia 2019
+
+
+# Videos
+
+<a href="https://www.uni-ulm.de/fileadmin/website_uni_ulm/iui.inst.160/Psychologie/Applied_Cognitive_Psychology/Filme/VA-Morph.mp4">Head Cue Following</a>
+<video src="https://www.uni-ulm.de/fileadmin/website_uni_ulm/iui.inst.160/Psychologie/Applied_Cognitive_Psychology/Filme/VA-Morph.mp4" width="320" height="200" controls preload></video>
