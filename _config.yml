@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Timo Oess
-subtitle: "PhD Student"
+#subtitle: "PhD Student"
 email: "&#x74;&#x69;&#x6d;&#x6f;&#x2e;&#x6f;&#x65;&#x73;&#x73;&#x40;&#x75;&#x6e;&#x69;&#x2d;&#x75;&#x6c;&#x6d;&#x2e;&#x64;&#x65;"
 description:  # this means to ignore newlines until "baseurl:"
   Timo Oess, PhD student at Ulm University interested in computational models of the auditory pathway and multisensory integration.
