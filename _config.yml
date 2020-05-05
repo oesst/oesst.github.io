@@ -30,8 +30,7 @@ url: "https://oesst.github.io"
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
-#permalink: /:categories/:title/
-permalink: /about/
+permalink: /:categories/:title/
 paginate: 1 # amount of posts to show
 paginate_path: /page:num/
 timezone: DE # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
@@ -75,6 +74,15 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/oesst/"
+
+
+sidebar:
+  - title: "Title"
+    image: http://placehold.it/350x250
+    image_alt: "image"
+    text: "Some text here."
+  - title: "Another Title"
+    text: "More text here."
 
 footer:
   links:
