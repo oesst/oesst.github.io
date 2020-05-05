@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Timo Oess
 subtitle: "PhD Student"
-email: oess.timo@gmai.com
+email: "&#x74;&#x69;&#x6d;&#x6f;&#x2e;&#x6f;&#x65;&#x73;&#x73;&#x40;&#x75;&#x6e;&#x69;&#x2d;&#x75;&#x6c;&#x6d;&#x2e;&#x64;&#x65;"
 description:  # this means to ignore newlines until "baseurl:"
   Timo Oess, PhD student at Ulm University interested in computational models of the auditory pathway and multisensory integration.
 twitter_username: _exhs
@@ -26,8 +26,8 @@ url: "https://oesst.github.io"
 
 # Build settings
 markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
-#theme: "minimal-mistakes-jekyll"
+#remote_theme: mmistakes/minimal-mistakes
+theme: "minimal-mistakes-jekyll"
 # Outputting
 # permalink: /:categories/:title/
 # paginate: 1 # amount of posts to show
@@ -59,7 +59,8 @@ plugins:
 author:
   name   : "Timo Oess"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "PhD student at Ulm University interested in computational models of the auditory pathway and multisensory integration."
+  bio    : "PhD student at Ulm University interested in computational modeling."
+  email: "&#x74;&#x69;&#x6d;&#x6f;&#x2e;&#x6f;&#x65;&#x73;&#x73;&#x40;&#x75;&#x6e;&#x69;&#x2d;&#x75;&#x6c;&#x6d;&#x2e;&#x64;&#x65;"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
