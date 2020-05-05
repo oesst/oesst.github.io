@@ -17,9 +17,7 @@ title: Timo Oess
 subtitle: "PhD Student"
 email: oess.timo@gmai.com
 description:  # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Timo Oess, PhD student at Ulm University interested in computational models of the auditory pathway and multisensory integration.
 twitter_username: _exhs
 github_username: oesst
 minimal_mistakes_skin: dark
@@ -28,12 +26,12 @@ url: "https://oesst.github.io"
 
 # Build settings
 markdown: kramdown
-#remote_theme: mmistakes/minimal-mistakes
-theme: "minimal-mistakes-jekyll"
+remote_theme: mmistakes/minimal-mistakes
+#theme: "minimal-mistakes-jekyll"
 # Outputting
-permalink: /:categories/:title/
-paginate: 1 # amount of posts to show
-paginate_path: /page:num/
+# permalink: /:categories/:title/
+# paginate: 1 # amount of posts to show
+# paginate_path: /page:num/
 timezone: DE # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
@@ -61,7 +59,7 @@ plugins:
 author:
   name   : "Timo Oess"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "PhD student at Ulm University interested in computational models of the auditory pathway and multisensory integration."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
