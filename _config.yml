@@ -27,7 +27,7 @@ url: "https://oesst.github.io"
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
-#theme: "minimal-mistakes-jekyll"
+# theme: "minimal-mistakes-jekyll"
 # Outputting
 # permalink: /:categories/:title/
 # paginate: 1 # amount of posts to show
@@ -74,6 +74,10 @@ author:
     - label: "Google Scholar"
       icon: "fab fa-fw fas fa-graduation-cap"
       url: "https://scholar.google.de/citations?user=9CQhvdsAAAAJ"
+    - label: "ORCID"
+      icon: "fab fa-fw fab fa-orcid"
+      url: "https://orcid.org/0000-0002-4803-837X"
+
 
 footer:
   links:
