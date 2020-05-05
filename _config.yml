@@ -26,8 +26,8 @@ url: "https://oesst.github.io"
 
 # Build settings
 markdown: kramdown
-#remote_theme: mmistakes/minimal-mistakes
-theme: "minimal-mistakes-jekyll"
+remote_theme: mmistakes/minimal-mistakes
+#theme: "minimal-mistakes-jekyll"
 # Outputting
 # permalink: /:categories/:title/
 # paginate: 1 # amount of posts to show
@@ -62,9 +62,9 @@ author:
   bio    : "PhD student at Ulm University interested in computational modeling."
   email: "&#x74;&#x69;&#x6d;&#x6f;&#x2e;&#x6f;&#x65;&#x73;&#x73;&#x40;&#x75;&#x6e;&#x69;&#x2d;&#x75;&#x6c;&#x6d;&#x2e;&#x64;&#x65;"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://oess.info"
+    # - label: "Website"
+    #   icon: "fas fa-fw fa-link"
+    #   url: "https://oess.info"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/_exHS"
