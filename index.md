@@ -21,8 +21,8 @@ In my PhD thesis, I am focusing on computational models for auditory sound sourc
 # Publications
 
 ## 2020
-* _Computational principles of neural adaptation for binaural signal integration_, Frontiers in Neurorobotics, Under Review [bioRxiv](https://www.biorxiv.org/content/10.1101/863258v2)
-* _From near-optimal Bayesian Integration to Neuromorphic Hardware: A neural network model of multisensory integration_, Frontiers in Neurorobotics, [In press]()
+* _Computational principles of neural adaptation for binaural signal integration_,  Under Review [bioRxiv](https://www.biorxiv.org/content/10.1101/863258v2)
+* _From near-optimal Bayesian Integration to Neuromorphic Hardware: A neural network model of multisensory integration_, Frontiers in Neurorobotics, [Link](https://doi.org/10.3389/fnbot.2020.00029)
 * _A Bio-Inspired Model of Sound Source Localization on Neuromorphic Hardware_, International Conference on Artificial Intelligence Circuits and Systems (AICAS), [Link](https://ieeexplore.ieee.org/abstract/document/9073935)
 * _Computational investigation of visually guided learning of spatially aligned auditory maps in the colliculus_,  Proceedings of the International Symposium on Auditory and Audiological Research, [Full text](https://proceedings.isaar.eu/index.php/isaarproc/article/view/2019-18)
 
@@ -32,7 +32,7 @@ In my PhD thesis, I am focusing on computational models for auditory sound sourc
 <br>
 # Presentations
 
-* _Computational investigation of visually guided learning of spatially aligned auditory maps in the colliculus_, [Talk](/assets/presentation_isaar.pdf) at the [International Symposium on Auditory and Audiological Research](http://www.isaar.eu/), Košice, Slovakia 2019
+* _Computational investigation of visually guided learning of spatially aligned auditory maps in the colliculus_, [Talk](/assets/presentation_isaar.pdf) at the [International Symposium on Auditory and Audiological Research](http://www.isaar.eu/), Nyborg, Denmark 2019
 * _Monoaural and Binaural Sound Source Localization in the Median Plane_, [Poster](/assets/poster_kosice.pdf) presentation at the 4th workshop on [cognitive neuroscience of auditory and cross-modal perception](https://pcl.upjs.sk/workshop2019/), Košice, Slovakia 2019
 
 
