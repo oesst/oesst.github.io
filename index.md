@@ -17,7 +17,7 @@ In 2016, I graduated from Technical University München (TUM) with a Master's de
 
 In my PhD thesis, I am focusing on computational models for auditory sound source localization, multisensory integration and the deployment of such models on neuromorphic hardware and robotic platforms ([see project website](https://www.uni-ulm.de/in/neuroinformatik/forschung/schwerpunkte/va-morph/)). To conduct experiments with these models, I designed a 3D-printed movable human head (see [video](#auditory-cue-following-video)).
 
-[My CV](/assets/cv_oess.pdf)
+<p align=center> [My CV](/assets/cv_oess.pdf) </p>
 
 <br>
 # Publications
