@@ -35,6 +35,7 @@ In my PhD thesis, I am focusing on computational models for auditory sound sourc
 <br>
 # Presentations
 
+* _A Bio-Inspired Model of Sound Source Localization on Neuromorphic Hardware_, [Poster](/assets/poster_aicas_2020.pdf) at the [International Conference on Artificial Intelligence Circuits and Systems](https://www.aicas2020.eu/), Online 2020
 * _Computational investigation of visually guided learning of spatially aligned auditory maps in the colliculus_, [Talk](/assets/presentation_isaar.pdf) at the [International Symposium on Auditory and Audiological Research](http://www.isaar.eu/), Nyborg, Denmark 2019
 * _Monoaural and Binaural Sound Source Localization in the Median Plane_, [Poster](/assets/poster_kosice.pdf) presentation at the 4th workshop on [cognitive neuroscience of auditory and cross-modal perception](https://pcl.upjs.sk/workshop2019/), Košice, Slovakia 2019
 
