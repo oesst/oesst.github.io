@@ -33,6 +33,13 @@ In my PhD thesis, I am focusing on computational models for auditory sound sourc
 * _A Computational Model for Spatial Navigation Based on Reference Frames in the Hippocampus, Retrosplenial Cortex, and Posterior Parietal Cortex_, Frontiers in Neurorobotics, [Full text](https://www.frontiersin.org/articles/10.3389/fnbot.2017.00004/full)
 
 <br>
+
+# News
+
+* 2021 ERCIM News article ["Brain-inspired Visual-Auditory Integration Yielding Near Optimal Performance – Modelling and Neuromorphic Algorithms"](https://ercim-news.ercim.eu/en125/special/brain-inspired-visual-auditory-integration-yielding-near-optimal-performance-modelling-and-neuromorphic-algorithms) (Special theme on "Brain-Inspired Computing")
+* 2017 IDW - Informationsdienst Wissenschaft news article [Vom Gehirn zur Robotik: Algorithmen verarbeiten Sensordaten wie das Gehirn](https://idw-online.de/en/news681636)
+
+
 # Presentations
 
 * _A Bio-Inspired Model of Sound Source Localization on Neuromorphic Hardware_, [Poster](/assets/poster_aicas_2020.pdf) at the [International Conference on Artificial Intelligence Circuits and Systems](https://www.aicas2020.eu/), Online 2020
