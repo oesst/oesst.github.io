@@ -26,7 +26,7 @@ In my PhD thesis, I am focusing on computational models for auditory sound sourc
 * _Binaural Signal Integration Improves Vertical Sound Source Localization_, bioRxiv, [Preprint Full Text](https://doi.org/10.1101/2020.09.10.291468)
 * _Computational principles of neural adaptation for binaural signal integration_, PLOS Computational Biology, [Full text](https://doi.org/10.1371/journal.pcbi.1008020)
 * _From near-optimal Bayesian Integration to Neuromorphic Hardware: A neural network model of multisensory integration_, Frontiers in Neurorobotics, [Full text](https://doi.org/10.3389/fnbot.2020.00029)
-* _A Bio-Inspired Model of Sound Source Localization on Neuromorphic Hardware_, International Conference on Artificial Intelligence Circuits and Systems (AICAS), [Full text](https://ieeexplore.ieee.org/abstract/document/9073935)
+* _A Bio-Inspired Model of Sound Source Localization on Neuromorphic Hardware_, International Conference on Artificial Intelligence Circuits and Systems (AICAS), [Full text](https://www.informatik.uni-ulm.de/ni/mitarbeiter/HNeumann/publicationsYear/PDFs/CONFERENCES/IEEE-AICAS20-OessEtAl-soundSourceLocalizationNeuromorphicTrueNorth.pdf)
 * _Computational investigation of visually guided learning of spatially aligned auditory maps in the colliculus_,  Proceedings of the International Symposium on Auditory and Audiological Research, [Full text](https://proceedings.isaar.eu/index.php/isaarproc/article/view/2019-18)
 
 ## 2017
