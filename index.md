@@ -28,6 +28,9 @@ In 2016, I graduated from Technical University München (TUM) with a Master's de
 <br>
 # Publications
 
+## 2023
+* _Listen to the Brain–Auditory Sound Source Localization in Neuromorphic Computing Architectures_, Schmid; Oess ; Neumann, Sensors, [Full text](https://www.mdpi.com/1424-8220/23/9/4451)
+
 ## 2020
 * _Binaural Signal Integration Improves Vertical Sound Source Localization_, bioRxiv, [Preprint Full Text](https://doi.org/10.1101/2020.09.10.291468)
 * _Computational principles of neural adaptation for binaural signal integration_, PLOS Computational Biology, [Full text](https://doi.org/10.1371/journal.pcbi.1008020)
