@@ -10,7 +10,9 @@ toc: true
 
 # About
 
-Currently, I am a postdoctoral researcher with Carsten Mehring at the [Neurobiology and Neurotechnology Group](https://www.brain.uni-freiburg.de/) at the [Bernstein Center Freiburg](https://www.bcf.uni-freiburg.de/) working on computational models for motor control. Specifically, I am using recurrent neural networks and reinforcement learning to construct biologically plausible models of the motor cortex.
+Currently, I am a postdoctoral researcher with Marc Ernst at the [Applied Cognitive Psychology Department](https://www.uni-ulm.de/en/in/psy-acog/) at Ulm University where I continue to work on computational models for control, learning and auditory motion perception.
+
+Before that, I was a postdoctoral researcher with Carsten Mehring at the [Neurobiology and Neurotechnology Group](https://www.brain.uni-freiburg.de/) at the [Bernstein Center Freiburg](https://www.bcf.uni-freiburg.de/) working on computational models for motor control. Specifically, I was using recurrent neural networks and reinforcement learning to construct biologically plausible models of the motor cortex.
 
 
 Before that, I was a PhD student with Marc Ernst and Heiko Neumann at the [Applied Cognitive Psychology Department](https://www.uni-ulm.de/en/in/psy-acog/) at Ulm University, from where received a PhD in computer science in 2021. 
