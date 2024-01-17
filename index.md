@@ -21,8 +21,8 @@ The topic of my PhD thesis was [From sound waves to locations : computational mo
 The thesis focuses on computational models for auditory sound source localization, multisensory integration and the deployment of such models on neuromorphic hardware and robotic platforms ([see project website](https://www.uni-ulm.de/in/neuroinformatik/forschung/schwerpunkte/va-morph/)). To conduct experiments with these models, I designed a 3D-printed movable human head (see [video](#auditory-cue-following-video)) and a experimental setup for testing human behavior.
 
 <p float="left">
-  <img src="/assets/head.jpg" width="49%" />
-  <img src="/assets/setup.jpg" width="49%" /> 
+  <img src="/assets/images/head.jpg" width="49%" />
+  <img src="/assets/images/setup.jpg" width="49%" /> 
 </p>
 
 In 2016, I graduated from Technical University München (TUM) with a Master's degree in Robotics, Cognition and Intelligence. For my master's thesis, I went to the [Cognitive Anteater Robotics Laboratory (CARL)](http://www.socsci.uci.edu/~jkrichma/CARL/index.html) at the University of California as a junior specialist, working with Jeffrey Krichmar on a computational model for spatial navigation see [Frontiers in Neurorobotics 2017](https://www.frontiersin.org/articles/10.3389/fnbot.2017.00004/full).
