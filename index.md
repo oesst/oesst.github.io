@@ -18,7 +18,12 @@ Before that, I was a postdoctoral researcher with Carsten Mehring at the [Neurob
 Before that, I was a PhD student with Marc Ernst and Heiko Neumann at the [Applied Cognitive Psychology Department](https://www.uni-ulm.de/en/in/psy-acog/) at Ulm University, from where received a PhD in computer science in 2021. 
 The topic of my PhD thesis was [From sound waves to locations : computational models for sound source localization in the early auditory pathway](https://oparu.uni-ulm.de/xmlui/handle/123456789/39600). 
 
-The thesis focuses on computational models for auditory sound source localization, multisensory integration and the deployment of such models on neuromorphic hardware and robotic platforms ([see project website](https://www.uni-ulm.de/in/neuroinformatik/forschung/schwerpunkte/va-morph/)). To conduct experiments with these models, I designed a 3D-printed movable human head (see [video](#auditory-cue-following-video)).
+The thesis focuses on computational models for auditory sound source localization, multisensory integration and the deployment of such models on neuromorphic hardware and robotic platforms ([see project website](https://www.uni-ulm.de/in/neuroinformatik/forschung/schwerpunkte/va-morph/)). To conduct experiments with these models, I designed a 3D-printed movable human head (see [video](#auditory-cue-following-video)) and a experimental setup for testing human behavior.
+
+<p float="left">
+  <img src="/assets/head.jpg" width="49%" />
+  <img src="/assets/setup.jpg" width="49%" /> 
+</p>
 
 In 2016, I graduated from Technical University München (TUM) with a Master's degree in Robotics, Cognition and Intelligence. For my master's thesis, I went to the [Cognitive Anteater Robotics Laboratory (CARL)](http://www.socsci.uci.edu/~jkrichma/CARL/index.html) at the University of California as a junior specialist, working with Jeffrey Krichmar on a computational model for spatial navigation see [Frontiers in Neurorobotics 2017](https://www.frontiersin.org/articles/10.3389/fnbot.2017.00004/full).
 
