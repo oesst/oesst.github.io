@@ -30,7 +30,7 @@ In 2016, I graduated from Technical University München (TUM) with a Master's de
 
 
 
-<p align="center"> <a href="/assets/cv_oess.pdf">My CV</a> </p>
+<!-- <p align="center"> <a href="/assets/cv_oess.pdf">My CV</a> </p> -->
 
 <br>
 # Publications
