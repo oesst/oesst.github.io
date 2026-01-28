@@ -42,7 +42,7 @@ In 2016, I graduated from Technical University München (TUM) with a Master's de
 * _Listen to the Brain–Auditory Sound Source Localization in Neuromorphic Computing Architectures_, Schmid; Oess ; Neumann, Sensors, [Full text](https://www.mdpi.com/1424-8220/23/9/4451)
 
 ## 2020
-* _Binaural Signal Integration Improves Vertical Sound Source Localization_, bioRxiv, [Preprint Full Text](https://doi.org/10.1101/2020.09.10.291468)
+* _Binaural Signal Integration Improves Vertical Sound Source Localization_, Oess, Neumann, Ernst, bioRxiv, [Preprint Full Text](https://doi.org/10.1101/2020.09.10.291468)
 * _Computational principles of neural adaptation for binaural signal integration_, PLOS Computational Biology, [Full text](https://doi.org/10.1371/journal.pcbi.1008020)
 * _From near-optimal Bayesian Integration to Neuromorphic Hardware: A neural network model of multisensory integration_, Frontiers in Neurorobotics, [Full text](https://doi.org/10.3389/fnbot.2020.00029)
 * _A Bio-Inspired Model of Sound Source Localization on Neuromorphic Hardware_, International Conference on Artificial Intelligence Circuits and Systems (AICAS), [Full text](https://www.informatik.uni-ulm.de/ni/mitarbeiter/HNeumann/publicationsYear/PDFs/CONFERENCES/IEEE-AICAS20-OessEtAl-soundSourceLocalizationNeuromorphicTrueNorth.pdf)
@@ -60,7 +60,7 @@ In 2016, I graduated from Technical University München (TUM) with a Master's de
 
 
 # Presentations
-* _Auditory parsing. The effect of head movement on the perceived direction of a moving sound source_, [Talk] (/assets/IMRF_2025.pdf) at the [IMRF Conference] (https://imrf2025.sciencesconf.org/?lang=en), Durham, UK, 2025
+* _Auditory parsing. The effect of head movement on the perceived direction of a moving sound source_, [Talk] (/assets/talk_IMRF_final.pdf) at the [IMRF Conference] (https://imrf2025.sciencesconf.org/?lang=en), Durham, UK, 2025
 
 * _Biological-plausible learning with a two compartment neuron model in recurrent neural networks_, [Poster](/assets/poster_bc_2024.pdf) at the [Bernstein Conference](https://bernstein-network.de/bernstein-conference/), Frankfurt, Germany 2024
 
