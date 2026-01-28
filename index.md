@@ -35,6 +35,9 @@ In 2016, I graduated from Technical University München (TUM) with a Master's de
 <br>
 # Publications
 
+## 2026
+* _Dynamic sensor adaptation based on efferent feedback for adaptive bio-inspired sound source localization_, Durstewitz, Schmid, Oess, Ghazanfari, Neumann, Ernst and Lenk , Frontiers in Neuroscience, [Full text](https://doi.org/10.3389/fnins.2026.1736957)
+
 ## 2023
 * _Listen to the Brain–Auditory Sound Source Localization in Neuromorphic Computing Architectures_, Schmid; Oess ; Neumann, Sensors, [Full text](https://www.mdpi.com/1424-8220/23/9/4451)
 
@@ -57,11 +60,14 @@ In 2016, I graduated from Technical University München (TUM) with a Master's de
 
 
 # Presentations
+* _Auditory parsing. The effect of head movement on the perceived direction of a moving sound source_, [Talk] (/assets/IMRF_2025.pdf) at the [IMRF Conference] (https://imrf2025.sciencesconf.org/?lang=en), Durham, UK, 2025
 
 * _Biological-plausible learning with a two compartment neuron model in recurrent neural networks_, [Poster](/assets/poster_bc_2024.pdf) at the [Bernstein Conference](https://bernstein-network.de/bernstein-conference/), Frankfurt, Germany 2024
 
 * _A Bio-Inspired Model of Sound Source Localization on Neuromorphic Hardware_, [Poster](/assets/poster_aicas_2020.pdf) at the [International Conference on Artificial Intelligence Circuits and Systems](https://www.aicas2020.eu/), Online 2020
+
 * _Computational investigation of visually guided learning of spatially aligned auditory maps in the colliculus_, [Talk](/assets/presentation_isaar.pdf) at the [International Symposium on Auditory and Audiological Research](http://www.isaar.eu/), Nyborg, Denmark 2019
+
 * _Monoaural and Binaural Sound Source Localization in the Median Plane_, [Poster](/assets/poster_kosice.pdf) presentation at the 4th workshop on [cognitive neuroscience of auditory and cross-modal perception](https://pcl.upjs.sk/workshop2019/), Košice, Slovakia 2019
 
 
