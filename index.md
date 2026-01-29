@@ -60,7 +60,7 @@ In 2016, I graduated from Technical University München (TUM) with a Master's de
 
 
 # Presentations
-* _Auditory parsing. The effect of head movement on the perceived direction of a moving sound source_, [Talk] (/assets/talk_IMRF_final.pdf) at the [IMRF Conference] (https://imrf2025.sciencesconf.org/?lang=en), Durham, UK, 2025
+* _Auditory parsing. The effect of head movement on the perceived direction of a moving sound source_, [Talk](/assets/talk_IMRF_final.pdf) at the [IMRF Conference](https://imrf2025.sciencesconf.org/?lang=en), Durham, UK, 2025
 
 * _Biological-plausible learning with a two compartment neuron model in recurrent neural networks_, [Poster](/assets/poster_bc_2024.pdf) at the [Bernstein Conference](https://bernstein-network.de/bernstein-conference/), Frankfurt, Germany 2024
 
