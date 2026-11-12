@@ -56,7 +56,6 @@ After my master's, I co-founded the start-up Foxim (Cologne), a conversational-c
 * _Brain-inspired Visual-Auditory Integration Yielding Near Optimal Performance – Modelling and Neuromorphic Algorithms_, Oess, Neumann, ERCIM News 125, [Full text](https://ercim-news.ercim.eu/en125/special/brain-inspired-visual-auditory-integration-yielding-near-optimal-performance-modelling-and-neuromorphic-algorithms)
 
 ## 2020
-* _Binaural Signal Integration Improves Vertical Sound Source Localization_, Oess, Neumann, Ernst, bioRxiv, [Preprint Full Text](https://doi.org/10.1101/2020.09.10.291468)
 * _Computational principles of neural adaptation for binaural signal integration_, PLOS Computational Biology, [Full text](https://doi.org/10.1371/journal.pcbi.1008020)
 * _From near-optimal Bayesian Integration to Neuromorphic Hardware: A neural network model of multisensory integration_, Frontiers in Neurorobotics, [Full text](https://doi.org/10.3389/fnbot.2020.00029)
 * _A Bio-Inspired Model of Sound Source Localization on Neuromorphic Hardware_, International Conference on Artificial Intelligence Circuits and Systems (AICAS), [Full text](https://www.informatik.uni-ulm.de/ni/mitarbeiter/HNeumann/publicationsYear/PDFs/CONFERENCES/IEEE-AICAS20-OessEtAl-soundSourceLocalizationNeuromorphicTrueNorth.pdf)
@@ -75,7 +74,6 @@ After my master's, I co-founded the start-up Foxim (Cologne), a conversational-c
 * 2026 New preprints on bioRxiv: [Moving heads, moving sounds](https://doi.org/10.64898/2026.11.05.764571) and [The where and when of tracking sound sources](https://doi.org/10.64898/2026.11.09.765311)
 * 2026 Two-month research stay as visiting researcher in Rob Allison's lab, York University, Toronto (Ontario–Baden-Württemberg Faculty Mobility Program)
 * 2026 Awarded the Ulm Postdoc Research Grant for the project _From Sound to Attention via Adaptive Perceptual Filtering_
-* Patent application submitted (pending): a wearable headphone device that uses binaural signal integration to localize sounds in noise and warn the wearer of approaching hazards
 * 2023 Co-organiser of the international conference FRoBio – Freiburg Robotics and Biology (funded by FRIAS)
 * 2021 ERCIM News article ["Brain-inspired Visual-Auditory Integration Yielding Near Optimal Performance – Modelling and Neuromorphic Algorithms"](https://ercim-news.ercim.eu/en125/special/brain-inspired-visual-auditory-integration-yielding-near-optimal-performance-modelling-and-neuromorphic-algorithms) (Special theme on "Brain-Inspired Computing")
 * 2017 IDW - Informationsdienst Wissenschaft news article [Vom Gehirn zur Robotik: Algorithmen verarbeiten Sensordaten wie das Gehirn](https://idw-online.de/en/news681636)
