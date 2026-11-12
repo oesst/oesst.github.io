@@ -77,6 +77,9 @@ author:
     - label: "ORCID"
       icon: "fab fa-fw fab fa-orcid"
       url: "https://orcid.org/0000-0002-4803-837X"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/timo-oess/"
 
 
 footer:
