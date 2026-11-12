@@ -40,7 +40,7 @@ After my master's, I co-founded the start-up Foxim (Cologne), a conversational-c
 # Publications
 
 ## Submitted & Preprints
-* _Natural spatial hearing relies on binaural spectral disparity to cancel source-spectrum ambiguities_, Oess, Roy, Neumann, Ernst, under review at Nature Communications, [Earlier version on bioRxiv](https://doi.org/10.1101/2020.09.10.291468)
+* _Natural spatial hearing relies on binaural spectral disparity to cancel source-spectrum ambiguities_, Oess, Roy, Neumann, Ernst [Earlier version on bioRxiv](https://doi.org/10.1101/2020.09.10.291468)
 * _Moving heads, moving sounds: systematic errors in auditory motion perception_, Oess, Harris, Ernst, bioRxiv 2026, [Preprint Full Text](https://doi.org/10.64898/2026.11.05.764571)
 * _The where and when of tracking sound sources: head-based auditory motion tracking integrates velocity and spatial error within a common delayed frame_, Oess, Iriventi, Ernst, bioRxiv 2026, [Preprint Full Text](https://doi.org/10.64898/2026.11.09.765311)
 * _Adding 3D space to human navigation: Humans stop short of home after walking over a bridge_, Roy, Wünning, Oess, Ernst, PsyArXiv 2026, [Preprint Full Text](https://doi.org/10.31234/osf.io/sgw7u_v2)
